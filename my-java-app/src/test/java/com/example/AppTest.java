@@ -1,3 +1,4 @@
+//new comment added
 package com.example;
 
 import junit.framework.Test;
@@ -30,6 +31,7 @@ public class AppTest
 
     /**
      * Rigourous Test :-)
+    *
      */
     public void testApp()
     {
